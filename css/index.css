@@ -1,0 +1,40 @@
+<head>
+<style>
+body {
+    background-color: lightblue;
+    color: purple;
+}
+h1 {
+      font-size: 100px;
+    color: rgb(255, 48, 238);
+    text-align: left;
+  font-style: italic;
+  font-weight: lighter;
+}
+h2{
+  border-style: solid;
+}
+p {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  border-style: dotted;
+}
+div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+ ul {
+  border-style: dotted;
+}
+a{
+  font-style: italic;
+}
+</style>
+</head>
+<body>
